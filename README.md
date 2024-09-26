@@ -15,4 +15,4 @@ Fokuset på uppgiften ligger på funktionalitet över utseende.
 * Spara listan med hjälp av local Storage
 * en sökfunktion för objekten i listan
 
-[image](beppes-todo.png)
+![image](beppestodo.png)
